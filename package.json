@@ -12,5 +12,8 @@
   "devDependencies": {
     "@types/node": "^20.14.2",
     "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "langchain": "^0.2.5"
   }
 }
